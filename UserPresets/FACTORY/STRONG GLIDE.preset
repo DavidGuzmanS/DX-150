@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptSlider" id="Knob1" value="0.507905"/>
+    <Control type="ScriptSlider" id="ModKnob" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton1" value="0"/>
+    <Control type="ScriptButton" id="LFOWaveButton" value="1"/>
+    <Control type="ScriptSlider" id="ScriptSlider1" value="0.5"/>
+    <Control type="ScriptSlider" id="ScriptSlider2" value="0"/>
+    <Control type="ScriptSlider" id="ScriptSlider10" value="0.5"/>
+    <Control type="ScriptSlider" id="ScriptSlider11" value="0"/>
+    <Control type="ScriptSlider" id="ScriptSlider3" value="0"/>
+    <Control type="ScriptSlider" id="ScriptSlider4" value="28"/>
+    <Control type="ScriptSlider" id="ScriptSlider5" value="1.49012e-06"/>
+    <Control type="ScriptSlider" id="ScriptSlider6" value="0"/>
+    <Control type="ScriptSlider" id="ScriptSlider8" value="243"/>
+    <Control type="ScriptSlider" id="ScriptSlider7" value="0.94"/>
+    <Control type="ScriptSlider" id="ScriptSlider9" value="66.66"/>
+    <Control type="ScriptButton" id="GlideButton" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton2" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton3" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton4" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton5" value="1"/>
+    <Control type="ScriptButton" id="ScriptButton6" value="0"/>
+    <Control type="ScriptButton" id="ScriptButton7" value="0"/>
+    <Control type="ScriptSlider" id="ScriptSlider12" value="1"/>
+    <Control type="ScriptSlider" id="ScriptSlider13" value="0.38"/>
+    <Control type="ScriptSlider" id="ScriptSlider14" value="1"/>
+    <Control type="ScriptSlider" id="ScriptSlider15" value="-13.3"/>
+    <Control type="ScriptSlider" id="ScriptSlider16" value="0.27"/>
+    <Control type="ScriptSlider" id="ScriptSlider17" value="0.29"/>
+    <Control type="ScriptSlider" id="ScriptSlider18" value="0.81"/>
+    <Control type="ScriptSlider" id="ScriptSlider19" value="0"/>
+    <Control type="ScriptSlider" id="ScriptSlider20" value="4.5"/>
+    <Control type="ScriptSlider" id="ScriptSlider21" value="0.08"/>
+    <Control type="ScriptSlider" id="ScriptSlider22" value="0.56"/>
+    <Control type="ScriptSlider" id="ScriptSlider23" value="8"/>
+    <Control type="ScriptSlider" id="ScriptSlider24" value="0.31"/>
+    <Control type="ScriptSlider" id="ScriptSlider25" value="0.82"/>
+    <Control type="ScriptSlider" id="ScriptSlider26" value="0.43"/>
+    <Control type="ScriptButton" id="GUIButton1" value="1"/>
+    <Control type="ScriptButton" id="GUIButton2" value="0"/>
+  </Content>
+  <MidiAutomation>
+    <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="0"
+                End="1" FullStart="0" FullEnd="1" Skew="1" Interval="0.01" Attribute="ModKnob"
+                Inverted="0"/>
+  </MidiAutomation>
+  <MPEData Enabled="0"/>
+</Preset>
